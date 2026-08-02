@@ -24,8 +24,6 @@ This extension eliminates the manual data entry bottleneck in regression testing
 
 Upgrade to the Pro version for **$34.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://lunarautomata.gumroad.com/l/lckctk)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/4gM7sL9z9aQA6xyfQ8cZe13)** — Secure checkout
 
 ## Installation
@@ -37,7 +35,6 @@ Upgrade to the Pro version for **$34.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://lunarautomata.gumroad.com/l/lckctk)
 
 ## License
 
